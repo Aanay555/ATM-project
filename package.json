@@ -1,0 +1,22 @@
+{
+  "name": "anniee-giaic-atm-machine",
+  "version": "2.0.2",
+  "description": "This is My 3rd CLI project of ATM.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Uzma Riaz",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.11.30"
+  },
+  "dependencies": {
+    "@types/chalk-animation": "^1.6.3",
+    "chalk": "^5.3.0",
+    "chalk-animation": "^2.0.3",
+    "inquirer": "^9.2.16"
+  }
+}
