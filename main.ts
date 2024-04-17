@@ -8,8 +8,6 @@ const YourPinNumber = 3366;
 const newPinCode = '';
 
 //  const UpdatedBalance = ("" );
-
-
 console.log((chalk.bold.red("\t ***********\tyour Current Balance is ************** \t\n" + CurrentBalance)));
 // chalkAnimation.rainbow('\t\tWelcome to ATM Machine\t\t');
 const getPinResult = await inquirer.prompt([{
