@@ -1,10 +1,10 @@
 {
-  "name": "anniee-giaic-atm-machine",
+  "name": "cli-anniee-giaic-atm-machine",
   "version": "2.0.1",
   "description": "This is My 3rd CLI project of ATM.",
   "main": "index.js",
   "type": "module",
-  "bin":"main.js",
+  "bin":"mainatm.js",
   "publishConfig": {
     "access": "public"
   },
